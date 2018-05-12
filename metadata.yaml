@@ -1,0 +1,38 @@
+_repo: The-Vicomte-de-BragelonneMusketeers--And--Twenty-Years-After-_18997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'The Vicomte de Bragelonne
+
+  Or Ten Years Later being the completion of "The Three
+
+  Musketeers" And "Twenty Years After"'
+url: http://www.gutenberg.org/ebooks/18997
